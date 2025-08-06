@@ -1,0 +1,1 @@
+The attached phd contains bipolar pentagonal neutrosophic fuzzy data for input values in a multiobjective solid transportation model. The file includes Table 1-21. Tables 1 and 2 display inputs for constraints. Tables 3-10 display inputs for cost parameters. Tables 11-16 display inputs for time parameters. Table 17-21 displays inputs for emission parameters.  
